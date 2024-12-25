@@ -40,7 +40,7 @@
         }
 
         header nav ul li a:hover{
-            color:#f4a261;
+            color:#de61f4;
         }
           .hero {
             background-image: url(https://wallpapercave.com/wp/wp14295403.jpg); /* Replace with actual image URL */
@@ -51,23 +51,23 @@
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            color: white;
+            color: rgb(238, 241, 233);
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
             text-align: center;
         }
 
         .hero h1 {
-            font-size: 3em;
-            margin-bottom: 10px;
+            font-size: 4em;
+            margin-bottom: 5px;
         }
 
         .hero p {
-            font-size: 1.2em;
+            font-size: 1.0em;
             margin-bottom: 20px;
         }
 
         .hero a {
-            background-color: #e63946;
+            background-color: #3973e6;
             color: white;
             padding: 10px 20px;
             text-decoration: none;
@@ -77,5 +77,6 @@
         }
 
         .hero a:hover {
-            background-color: #f77f00;
+            background-color: #8000f7;
         }
+
